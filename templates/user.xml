@@ -1,0 +1,21 @@
+<templateSet group="user">
+  <template name="cl" value="console.log('$VAR$ --&gt; ', $VAR$);" description="console log var" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="clog" value="console.log('$FN$ $MN$ $VAR$ --&gt;', $VAR$);" description="console log var in function" toReformat="false" toShortenFQNames="true">
+    <variable name="FN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="c" value="console.log('');" description="console log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
