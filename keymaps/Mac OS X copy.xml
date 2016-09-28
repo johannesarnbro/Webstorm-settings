@@ -9,6 +9,8 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -17,6 +19,7 @@
     <keyboard-shortcut first-keystroke="meta y" />
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorMoveToPageBottomWithSelection">
     <keyboard-shortcut first-keystroke="shift meta page_down" />
     <keyboard-shortcut first-keystroke="shift meta down" />
@@ -25,12 +28,20 @@
     <keyboard-shortcut first-keystroke="shift meta page_up" />
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="XDebugger.CopyWatch" />
 </keymap>
