@@ -6,7 +6,7 @@
     </context>
   </template>
   <template name="clog" value="console.log('$FN$ $MN$ $VAR$ --&gt;', $VAR$);" description="console log var in function" toReformat="false" toShortenFQNames="true">
-    <variable name="FN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FN" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
     <variable name="MN" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
