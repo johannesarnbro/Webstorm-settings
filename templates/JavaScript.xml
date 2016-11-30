@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="//" value="// $VAR$ Johannes Arnbro $DATE$" description="Personal comment" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
