@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ProgressBar.js" type="ECMAScript 6" />
       <mapping ext="js" type="ECMAScript 6" />
       <mapping ext="vue" type="HTML" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />
-      <mapping pattern="ProgressBar.js" type="PLAIN_TEXT" />
       <mapping pattern="variables.less" type="PLAIN_TEXT" />
       <mapping pattern="form-wizard-section" type="PLAIN_TEXT" />
       <mapping pattern="Chat.js" type="PLAIN_TEXT" />
