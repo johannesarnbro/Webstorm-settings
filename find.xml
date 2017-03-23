@@ -18,11 +18,11 @@
       <mask>*.mxml</mask>
       <mask>*.*html</mask>
       <mask>*.c</mask>
+      <mask>*.csht</mask>
+      <mask>*.l</mask>
       <mask>*.cs</mask>
       <mask>*.csh</mask>
-      <mask>*.csht</mask>
       <mask>*.cshtml</mask>
-      <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
