@@ -14,13 +14,13 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.csht</mask>
+      <mask>*.*html</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
-      <mask>*.l</mask>
       <mask>*.csh</mask>
+      <mask>*.csht</mask>
       <mask>*.cshtml</mask>
-      <mask>*.*html</mask>
+      <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
