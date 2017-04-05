@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.cshtml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -21,15 +21,17 @@
       <mask>*.ctml</mask>
       <mask>*.ctm</mask>
       <mask>*.ct</mask>
-      <mask>*.l</mask>
       <mask>*.le</mask>
-      <mask>*.cs</mask>
-      <mask>*.csh</mask>
-      <mask>*.cshtml</mask>
       <mask>*.c</mask>
       <mask>*.</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.lcs</mask>
+      <mask>*.lc</mask>
+      <mask>*.l</mask>
+      <mask>*.cs</mask>
+      <mask>*.csh</mask>
+      <mask>*.cshtml</mask>
     </recentFileMasks>
   </component>
 </application>
