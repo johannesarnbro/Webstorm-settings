@@ -4,6 +4,7 @@
       <mapping ext="cshtml" type="C#" />
       <mapping pattern="ProgressBar.js" type="ECMAScript 6" />
       <mapping ext="js" type="ECMAScript 6" />
+      <mapping pattern="GmTecknaNy.cshtml" type="HTML" />
       <mapping ext="vue" type="HTML" />
       <removed_mapping ext="js" type="JavaScript" />
       <mapping ext="php" type="PLAIN_TEXT" />
