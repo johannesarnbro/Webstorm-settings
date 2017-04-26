@@ -1,11 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="cshtml" type="C#" />
       <mapping pattern="ProgressBar.js" type="ECMAScript 6" />
       <mapping ext="js" type="ECMAScript 6" />
-      <mapping pattern="GmTecknaNy.cshtml" type="HTML" />
       <mapping ext="vue" type="HTML" />
+      <mapping ext="cshtml" type="HTML" />
       <removed_mapping ext="js" type="JavaScript" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <removed_mapping ext="vue" type="Vue.js" />
