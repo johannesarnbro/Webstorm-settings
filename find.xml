@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cshtml" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -25,15 +26,15 @@
       <mask>*.l</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
-      <mask>*.c</mask>
       <mask>*.csht</mask>
-      <mask>*.cs</mask>
-      <mask>*.csh</mask>
       <mask>*.cshtm</mask>
-      <mask>*.cshtml</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.csh</mask>
+      <mask>*.cshtml</mask>
     </recentFileMasks>
   </component>
 </application>
