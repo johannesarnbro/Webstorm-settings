@@ -23,17 +23,17 @@
       <mask>*:les</mask>
       <mask>*:less</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>*.csht</mask>
       <mask>*.cshtm</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.c</mask>
+      <mask>*.js</mask>
+      <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.csh</mask>
       <mask>*.cshtml</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
