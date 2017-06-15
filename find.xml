@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cshtml" />
     <recentFileMasks>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -20,20 +21,20 @@
       <mask>*:le</mask>
       <mask>*:les</mask>
       <mask>*:less</mask>
-      <mask>*.cshtm</mask>
       <mask>*.js</mask>
-      <mask>*.l</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.csh</mask>
       <mask>*.cshtlm</mask>
       <mask>*.cshtl</mask>
+      <mask>*.c</mask>
       <mask>*.csht</mask>
-      <mask>*.cshtml</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
+      <mask>*.cshtm</mask>
       <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.cs</mask>
+      <mask>*.csh</mask>
+      <mask>*.cshtml</mask>
     </recentFileMasks>
   </component>
 </application>
