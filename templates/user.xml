@@ -39,7 +39,7 @@
   <template name="sct" value="${props =&gt; props.theme.$var$}" description="style-components theme shorthand" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="OTHER" value="true" />
     </context>
   </template>
 </templateSet>
