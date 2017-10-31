@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="ProgressBar.js" type="ECMAScript 6" />
+      <mapping ext="js" type="ECMAScript 6" />
+      <mapping ext="cshtml" type="HTML" />
+      <mapping pattern="Checkoutjs" type="JavaScript" />
+      <mapping ext="java" type="JavaScript" />
+      <removed_mapping ext="js" type="JavaScript" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
