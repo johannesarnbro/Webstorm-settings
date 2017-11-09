@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="ActivateStructureToolWindow" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
@@ -62,5 +65,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="VcsHistory.ShowAllAffected" />
   <action id="XDebugger.CopyWatch" />
 </keymap>
