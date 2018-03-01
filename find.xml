@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.cshtml" />
     <recentFileMasks>
       <mask>*:le</mask>
       <mask>*:les</mask>
@@ -16,7 +16,6 @@
       <mask>*.cs</mask>
       <mask>*.csht</mask>
       <mask>*.cshtm</mask>
-      <mask>*.cshtml</mask>
       <mask>*.aspc</mask>
       <mask>*.asp</mask>
       <mask>*.aspx</mask>
@@ -37,6 +36,7 @@
       <mask>*.html</mask>
       <mask>*.less</mask>
       <mask>*.js</mask>
+      <mask>*.cshtml</mask>
     </recentFileMasks>
   </component>
 </application>
