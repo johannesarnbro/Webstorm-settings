@@ -15,27 +15,27 @@
       <mask>*.cs</mask>
       <mask>*.csht</mask>
       <mask>*.cshtm</mask>
-      <mask>*.cshtml</mask>
       <mask>*.aspc</mask>
       <mask>*.asp</mask>
       <mask>*.aspx</mask>
       <mask>*.as</mask>
       <mask>*.a</mask>
       <mask>*.h</mask>
-      <mask>*.html</mask>
       <mask>*.c</mask>
       <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
       <mask>*.k</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
+      <mask>*.html</mask>
       <mask>*.less</mask>
+      <mask>*.js</mask>
+      <mask>*.cshtml</mask>
     </recentFileMasks>
   </component>
 </application>
