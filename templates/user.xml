@@ -42,4 +42,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="rc" value="import React, {PureComponent} from 'react';&#10;import PropTypes from 'prop-types';&#10;&#10;class $VAR$ extends PureComponent {&#10;    render () {&#10;        return (false);&#10;    }&#10;}&#10;&#10;$VAR$.propTypes = {&#10;    &#10;};&#10;&#10;export default $VAR$;" description="create react component" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
