@@ -13,8 +13,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.html</mask>
-    <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>*.cshtml</mask>
+    <mask>*.less</mask>
   </component>
 </application>
