@@ -14,8 +14,8 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.cshtml</mask>
     <mask>*.less</mask>
     <mask>*.html</mask>
+    <mask>*.cshtml</mask>
   </component>
 </application>
