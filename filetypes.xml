@@ -4,6 +4,7 @@
       <mapping pattern="ProgressBar.js" type="ECMAScript 6" />
       <mapping ext="js" type="ECMAScript 6" />
       <mapping ext="cshtml" type="HTML" />
+      <mapping pattern=".stylelinerc" type="JSON" />
       <mapping pattern="Checkoutjs" type="JavaScript" />
       <mapping ext="java" type="JavaScript" />
       <removed_mapping ext="js" type="JavaScript" />
