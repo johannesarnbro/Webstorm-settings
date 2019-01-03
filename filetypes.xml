@@ -6,10 +6,11 @@
       <mapping pattern=".stylelinerc" type="JSON" />
       <mapping pattern="Checkoutjs" type="JavaScript" />
       <mapping ext="java" type="JavaScript" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
