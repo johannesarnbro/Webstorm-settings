@@ -10,7 +10,6 @@
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
-      <mapping ext="graphql" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
