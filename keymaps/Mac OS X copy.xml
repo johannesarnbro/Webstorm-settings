@@ -42,6 +42,9 @@
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="ReformatCode" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="meta alt o_with_diaeresis" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="SelectNextOccurrence">
