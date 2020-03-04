@@ -6,6 +6,7 @@
       <mapping pattern=".stylelinerc" type="JSON" />
       <mapping pattern="Checkoutjs" type="JavaScript" />
       <mapping ext="java" type="JavaScript" />
+      <mapping pattern=".eslintconfig" type="PLAIN_TEXT" />
       <mapping pattern=".browserlistsrc" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
